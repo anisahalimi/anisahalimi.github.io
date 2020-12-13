@@ -1,0 +1,133 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+a:link, a:visited {
+	text-decoration:none;
+	color:#065388;
+}
+a:hover {
+	color:#990000;	
+}
+a.current:link, a.current:visited {
+	color:#111;
+	font-weight:bold;
+}
+img { border:none; }
+body {
+	margin:0;
+	padding:0;
+	background-color: #f4f4f4;
+	color:#333;
+	font-family: 'arial', serif;
+	font-weight: 400;
+}
+
+#container {
+	width:1150px;
+	margin:auto;
+	font-size:14px;
+}
+#ucb {
+}
+#banner {
+	color:#373737;
+	padding:15px 15px 30px 15px;
+	margin: 0px 0; 
+	border-bottom:3px solid #DDD;
+}
+h1 {
+	margin:0;
+	padding: 0;
+	font-size:30px;
+}
+#banner p {
+	margin:0;
+	font-size:14px;
+}
+#title{
+	float: left;
+}
+#nav {
+}
+#nav ul {
+	list-style:none;
+	margin:0;
+	padding: 0px 0px 0px 580px;
+	height:32px;
+}
+#nav ul li {
+	display:inline;
+	float:left;
+}
+#nav a:link, #nav a:visited {
+	display:block;
+	float:left;
+	line-height:32px;
+	padding:0 8px;
+	font-size:16px;
+	color:#111;
+}
+#nav ul li.current a{ 
+  color: #065388;
+}
+#nav ul li a:hover {
+	color:#990000;	
+}
+#page {
+	background-color: #ffffff; 
+	overflow:auto;
+	padding:15px 0;
+}
+#sidebar {
+	min-width:210px;
+	float:left;
+	line-height:140%;
+	background-color: #ffffff; 
+	border: 2px solid #E5E5E5; 
+	margin-top: 0;
+	margin-right: 15px;
+	margin-bottom: 0;
+	margin-left: 15px;
+}
+#sidebar a{
+	background-color:#ffffff; 
+	margin-top: 0;
+	margin-right: 5px;
+	margin-bottom: 0;
+	margin-left: 5px;
+}
+#content {
+	margin:0 15px;	
+	line-height:160%;
+}
+#profile_photo {
+	margin-left:auto; 
+	margin-right:auto; 
+	display:block; 
+	padding:10px;
+}
+.right {
+	float:right;
+	margin: 0 0 15px 15px;
+}
+.left {
+	float:left;
+	margin:0 15px 15px 0;
+}
+#contact{
+	float:left;
+	margin-top: 0;
+	margin-right: 30px;
+	margin-bottom: 0;
+	margin-left: 0;
+}
+#education{
+	margin:0 15px;	
+	overflow:auto;
+}	
+.institution{
+	margin:0;
+	color:#949494;
+	font-size:12px;
+}
