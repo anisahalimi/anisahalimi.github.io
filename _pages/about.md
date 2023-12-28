@@ -14,9 +14,9 @@ My research interests include privacy-enhancing technologies (including big data
 
 Education
 ======
-- Doctor of Philosophy, Computer Science (2015 - 2021)  
+- Doctor of Philosophy, Computer Science (2015 - 2021) 
   Case Western Reserve University, Cleveland, Ohio, US
-- Master of Science, Computer Engineering (2014 - 2015) \\
+- Master of Science, Computer Engineering (2014 - 2015) 
   Epoka University, Tirane, Albania
-- Bachelor of Science, Computer Engineering (2010 - 2014)
+- Bachelor of Science, Computer Engineering (2010 - 2014) 
   Epoka University, Tirane, Albania
