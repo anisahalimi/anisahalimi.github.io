@@ -28,7 +28,7 @@ Intelligent Systems For Molecular Biology (ISMB), 2023.
 
 <span style="color:rgb(0, 119, 181)">**ShareTrace: Contact Tracing with the Actor Model**</span>  
 Ryan Tatton, Erman Ayday, Youngjin Yoo, **Anisa Halimi**  
-International Conference on E-health Networking, Application & Services (HealthCom), 2023.
+International Conference on E-health Networking, Application & Services (HealthCom), 2022.
 <a href="https://arxiv.org/pdf/2203.12445.pdf" target="_blank"><span style="color:white;background-color:lightseagreen">pdf</span></a>
 
 <span style="color:rgb(0, 119, 181)">**Facilitating Federated Genomic Data Analysis by Identifying Record Correlations while Ensuring Privacy**</span>  
@@ -62,12 +62,12 @@ European Symposium on Research in Computer Security (ESORICS), 2020.
 <a href="https://arxiv.org/pdf/2009.03698.pdf" target="_blank"><span style="color:white;background-color:lightseagreen">pdf</span></a>
 	
 <span style="color:rgb(0, 119, 181)">**Profile Matching Across Online Social Networks**</span>  
-**Anisa Halimi** and Erman Ayday  
+**Anisa Halimi**, Erman Ayday  
 International Conference on Information and Communications Security (ICICS), 2020.
 <a href="https://arxiv.org/pdf/2008.09608.pdf" target="_blank"><span style="color:white;background-color:lightseagreen">pdf</span></a>
 
 <span style="color:rgb(0, 119, 181)">**Towards Indestructible Molecular Robots**</span>  
-Ilir Capuni, **Anisa Halimi**, and Dorjan Hitaj  
+Ilir Capuni, **Anisa Halimi**, Dorjan Hitaj  
 <!-- In Proceedings of the 41st International Conference on Current Trends in Theory and Practice of Computer Science, -->
 SOFSEM (Student Research Forum Papers / Posters), 2015.
 <a href="http://ceur-ws.org/Vol-1326/112-Halimi.pdf" target="_blank"><span style="color:white;background-color:lightseagreen">pdf</span></a>
