@@ -14,7 +14,7 @@ author_profile: true
 <span style="color:rgb(0, 119, 181)">**FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs**</span>  
 S. Kadhe, **A. Halimi**, A. Rawat, and N. Baracaldo  
 Workshop on Socially Responsible Language Modelling Research in conjuction with NeurIPS (SoLaR), 2023.
-<span style="background-color: lightseagreen;color: white"><a href="https://arxiv.org/pdf/2312.07420.pdf" target="_blank"><b>arxiv</b></a></span>
+<span style="color: white; background-color: lightseagreen"><a href="https://arxiv.org/pdf/2312.07420.pdf" target="_blank"><b>arxiv</b></a></span>
 
 <span style="color:rgb(0, 119, 181)">**Re-evaluating the Privacy Benefit of Federated Learning**</span>  
 M. Suliman, D. Leith, **A. Halimi**   
