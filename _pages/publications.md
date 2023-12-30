@@ -11,11 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-<span style="color:rgb(0, 119, 181)">**FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs**</span>
+<span style="color:rgb(0, 119, 181)">**FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs**</span>  
 S. Kadhe, **A. Halimi**, A. Rawat, and N. Baracaldo  
-Workshop on Socially Responsible Language Modelling Research in conjuction with NeurIPS (SoLaR), 2023. [arxiv](https://arxiv.org/pdf/2312.07420.pdf)
+Workshop on Socially Responsible Language Modelling Research in conjuction with NeurIPS (SoLaR), 2023. <span style="background-color: lightseagreen">[arxiv](https://arxiv.org/pdf/2312.07420.pdf)</span>
 
-<span style="color:rgb(0, 119, 181)">**Re-evaluating the Privacy Benefit of Federated Learning**</span>
+<span style="color:rgb(0, 119, 181)">**Re-evaluating the Privacy Benefit of Federated Learning**</span>  
 M. Suliman, D. Leith, **A. Halimi**   
 Workshop on Advancements in Federated Learning in conjuction with ECML (WAFL), 2023. [pdf](https://www.scss.tcd.ie/~sulimanm/assets/wafl-2023.pdf)
 
@@ -24,14 +24,14 @@ L. Dervishi, W. Li, **A. Halimi**, X. Jiang, J. Vaidya, E. Ayday
 Intelligent Systems For Molecular Biology (ISMB), 2023. [pdf](https://pubmed.ncbi.nlm.nih.gov/37387172/)
 
 <span style="color:rgb(0, 119, 181)">**ShareTrace: Contact Tracing with the Actor Model**</span>  
-R. Tatton, E. Ayday, Y. Yoo,**A. Halimi**    
+R. Tatton, E. Ayday, Y. Yoo, **A. Halimi**    
 International Conference on E-health Networking, Application & Services (HealthCom), 2023. [arxiv](https://arxiv.org/pdf/2203.12445.pdf)
 
 <span style="color:rgb(0, 119, 181)">**Facilitating Federated Genomic Data Analysis by Identifying Record Correlations while Ensuring Privacy**</span>  
 L. Dervishi, X. Wang, W. Li, **A. Halimi**, J. Vaidya, X. Jiang, and E. Ayday  
 American Medical Informatics Association (AMIA), 2022. [arxiv](https://arxiv.org/abs/2203.05664.pdf)
 
-<span style="color:rgb(0, 119, 181)">**Federated Unlearning: How to Efficiently Erase a Client in FL?**</span>
+<span style="color:rgb(0, 119, 181)">**Federated Unlearning: How to Efficiently Erase a Client in FL?**</span>  
 **A. Halimi** & S. Kadhe, A. Rawat, and N. Baracaldo  
 International Workshop on Updatable Machine Learning in conjuction with ICML (UpML), 2022. [arxiv](https://arxiv.org/abs/2207.05521/pdf)
 
